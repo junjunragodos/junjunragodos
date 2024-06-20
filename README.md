@@ -37,7 +37,7 @@ Yo, I'm Jun-Jun Ragodos, the powerhouse behind WordPress solutions that don't ju
 [![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)]()
 
 ## 📊 MY STATS
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=junjunragodos&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="junjun ragodos's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junjunragodos&layout=compact&theme=buefy&hide_border=true" /></a>
+<a href="https://github.com/junjunragodos"><img align="center" src="https://github-readme-stats.vercel.app/api?username=junjunragodos&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="junjun ragodos's github stats" /></a> | <a href="junjunragodos"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junjunragodos&layout=compact&theme=buefy&hide_border=true" /></a>
 
 ## ✨ TOOLS I USE
 [![Windows 11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)]()
@@ -75,9 +75,9 @@ Yo, I'm Jun-Jun Ragodos, the powerhouse behind WordPress solutions that don't ju
 
 <p align="center">
   <img width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=junjunragodos&theme=react-dark&hide_border=true">
-  <img width="40%" src="https://github-readme-stats-junjunragodos.vercel.app/api/top-langs/?username=junjunragodos&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&exclude_repo=Jekyll-Default-Website&border_radius=10&bg_color=0D1117" alt="ssahibsingh" /> 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=junjunragodos&theme=react&hide_border=true&count_private=true&line_height=30&show_icons=true&custom_title=Github%20Stats&border_radius=10&bg_color=0D1117" alt="ssahibsingh" />
-   <img width="48%" src="https://streak-stats.demolab.com/?user=junjunragodos&theme=react&hide_border=true&background=0D1117" alt="ssahibsingh" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=junjunragodos&theme=react&hide_border=true&count_private=true&line_height=30&show_icons=true&custom_title=Github%20Stats&border_radius=10&bg_color=0D1117" alt="junjunragodos" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junjunragodos&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&exclude_repo=Jekyll-Default-Website&border_radius=10&bg_color=0D1117" alt="junjunragodos" /> 
+   <img width="48%" src="https://streak-stats.demolab.com/?user=junjunragodos&theme=react&hide_border=true&background=0D1117" alt="junjunragodos" />
 </p>
 
 ## 🌏 CONNECT WITH ME
