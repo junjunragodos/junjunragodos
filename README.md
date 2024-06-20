@@ -1,6 +1,6 @@
 <meta name="title" content="Jun-Jun Ragodos">
 <meta name="description" content="Hey there, I'm Jun-Jun Ragodos. I'm Full-Stack WordPress Developer!">
-<meta name="keyword" content="Jun-Jun Ragodos, Jun Ragodos, xCodes, Jun-Jun Ragodos Github, Jun Ragodos Github, Jun Ragodos repo, Github, NIT xC Github">
+<meta name="keyword" content="Jun-Jun Ragodos, Jun Ragodos, xCodes, Jun-Jun Ragodos Github, Jun Ragodos Github, Jun Ragodos repo, Github, NIT xCodes Github">
 
 <h1 align="center">Hey there, I'm Jun-Jun Ragodos 😎</h1>
 <h3 align="center">A Full-Stack WordPress Developer from the Philippines.</h3>
